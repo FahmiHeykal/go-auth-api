@@ -8,6 +8,6 @@ Proyek kecil untuk autentikasi pengguna menggunakan Golang dan PostgreSQL.
 - Endpoint yang dilindungi
 
 ## Cara Menjalankan
-1. Clone repositori ini:
+1. Clone repositori ini :
    ```bash
    git clone https://github.com/username/go-auth-api.git
