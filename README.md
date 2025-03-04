@@ -10,4 +10,4 @@ Proyek kecil untuk autentikasi pengguna menggunakan Golang dan PostgreSQL.
 ## Cara Menjalankan
 1. Clone repositori ini :
    ```bash
-   git clone https://github.com/username/go-auth-api.git
+   git clone https://github.com/FahmiHeykal/go-auth-api.git
